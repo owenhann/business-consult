@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Owen Hann - Business Consultation Services</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #000000;
+        }
+
+        header {
+            background-color: #008000;
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #008000;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #000000;
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Owen Hann</h1>
+        <p>Business Leader, Educator, Writer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Owen Hann is a business leader, educator, and writer. Currently serving as the VP Operations of Steamoji, a tech-ed franchise startup, Owen is passionate about empowering kids aged 5-14 to learn new skills such as 3D printing, robotics, coding, AI, engineering, and the digital arts.</p>
+    </section>
+
+    <section>
+        <h2>Business Consultation Services</h2>
+        <p>With a wealth of experience and expertise, Owen offers personalized business consultation services to help you navigate the challenges and opportunities in today's dynamic business landscape. Whether you are a startup or an established enterprise, let's collaborate for your success.</p>
+    </section>
+
+    <footer>
+        <p>Contact: your@email.com | Phone: (123) 456-7890</p>
+    </footer>
+</body>
+</html>
